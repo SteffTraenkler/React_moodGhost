@@ -13,4 +13,4 @@ const Mood = () => {
 }
 export default Mood
 
-{/* <Ghost size={600} mood="lovestruck" color="#E0E4E8" /> */ }
+/* <Ghost size={600} mood="lovestruck" color="#E0E4E8" /> */ 
